@@ -40,11 +40,12 @@ I primarily work with **Java, Spring Boot, REST APIs, SQL, Microservices, and di
 
 ### Software Engineer — American Express GBT
 
-* Working on enterprise travel technology and backend services.
-* Modernizing a legacy AS/400 service by rewriting IBM-generated Java parser code.
-* Processing airline travel messages and transforming raw GDS data into standardized domain models.
-* Working with messaging-based event processing and downstream AMOS integration.
-* Troubleshooting backend issues and improving application reliability.
+• Automated a daily reconciliation tracker that ingests card feeds and bank statements, validates transactions, and triggers real-time alerts with discrepancy snapshots — flagging 1,000+ discrepancies/month and saving ~4 hours of manual work daily.
+• Built ControlOps, a full-stack internal platform (React, Java, Spring Boot) centralizing snap data, pod status, queue status, team performance, load, history, and team roster into a single operational view — covering 50+ pods and 20,000+ data points.
+• Currently used by 100+ team members for real-time operational visibility, replacing scattered manual tracking across teams.
+• Enhanced a backend parser service processing travel messages from multiple airlines, transforming raw GDS data into standardized domain models and forwarding processed events to the AMOS platform.
+• Provided Engineering expertise for enterprise travel applications, troubleshooting and fixing production bugs and ensuring high system availability
+• Contributed to the modernization of a legacy AS/400 service by rewriting IBM-generated Java parser code into a clean, maintainable implementation. Enhanced a parser service that consumes travel messages from different Airlines, transforms raw GDS data into standardized domain models, and forwards processed events to the AMOS platform.
 
 ### Software Engineer — Mindsprint | OLAM Agri
 
